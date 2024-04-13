@@ -38,4 +38,8 @@ public class Principal {
 	
 
 }
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 592688e3a3eb2fcca4acc3dc5d40d7bdcbcf2a0b
