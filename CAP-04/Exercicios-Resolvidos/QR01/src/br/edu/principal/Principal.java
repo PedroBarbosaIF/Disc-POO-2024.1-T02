@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // 01. nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
 //obedece aos pesos a seguir:
 
@@ -16,11 +16,6 @@
 //6,0       7,0      C
 //5,0       6,0      D
 ///0,0      5,0      E
-=======
-/// 01.A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
-
-obedece aos pesos a seguir:
->>>>>>> 41287385fad865015756b2ef1cbd70e641f846b5
 
 package br.edu.principal;
 

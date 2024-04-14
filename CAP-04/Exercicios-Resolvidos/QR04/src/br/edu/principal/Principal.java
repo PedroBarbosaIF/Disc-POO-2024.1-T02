@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-//Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
-=======
+
 //04.Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
->>>>>>> 41287385fad865015756b2ef1cbd70e641f846b5
 
 package br.edu.principal;
 
