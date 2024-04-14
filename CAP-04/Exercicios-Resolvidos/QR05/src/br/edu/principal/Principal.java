@@ -1,5 +1,9 @@
+<<<<<<< HEAD:CAP-04/Exercicios-Resolvidos/QR05/src/br/edu/principal/Principal.java
 //Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto núme-ro que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha
 //que o usuário digitará quatro números diferentes.
+=======
+//Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
+>>>>>>> 41287385fad865015756b2ef1cbd70e641f846b5:CAP-04/Exercicios-Resolvidos/QR05/src/src/br/edu/principal/Principal.java
 
 package br.edu.principal;
 
