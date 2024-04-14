@@ -1,3 +1,5 @@
+//03.Faça um programa que receba dois números e mostre o maior.
+
 package br.edu.principal;
 
 import java.util.Scanner;
@@ -38,8 +40,3 @@ public class Principal {
 	
 
 }
-<<<<<<< HEAD
- 
-=======
- 
->>>>>>> 592688e3a3eb2fcca4acc3dc5d40d7bdcbcf2a0b
